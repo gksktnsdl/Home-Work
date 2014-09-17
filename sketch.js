@@ -6,8 +6,8 @@ function setup()
   background(155);
 
   //white
-    {
-    	fiil(100);
+   {}
+    	fill(100);
     	stroke(100);
 
     	    rect(360,10,20,40);
@@ -20,5 +20,5 @@ function setup()
     	    rect(450,140,10,10);
     	    rect(360,180,30,10);
     	    rect(440,180,30,10);
-    };
+    }
 }
