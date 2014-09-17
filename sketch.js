@@ -6,7 +6,7 @@ function setup()
   background(155);
 
   //white
-   {}
+   {
     	fill(100);
     	stroke(100);
 
