@@ -1,5 +1,4 @@
-function setup() 
-{
+function setup() {
   createCanvas(500,420);
 
   
@@ -7,8 +6,9 @@ function setup()
 
   //white
    {
-    	fill(100);
     	stroke(100);
+    	fill(100);
+    	
 
     	    rect(360,10,20,40);
     	    rect(350,20,10,20);
